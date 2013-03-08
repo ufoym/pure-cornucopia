@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="util\Cornucopia\Bezier.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Clothoid.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\ClothoidProjector.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Combiner.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\CornerDetector.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\CurvePrimitive.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Debugging.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\ErrorComputer.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Fitter.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Fresnel.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\GraphConstructor.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Line.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Oversketcher.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Parameters.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\PathFinder.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\PiecewiseLinearUtils.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Polyline.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Preprocessing.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\PrimitiveFitter.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\PrimitiveFitUtils.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\PrimitiveSequence.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Resampler.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\SimpleAPI.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Solver.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\TwoCurveCombine.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Algorithm.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+    <ClCompile Include="util\Cornucopia\Arc.cpp">
+      <Filter>Cornucopia</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Cornucopia">
+      <UniqueIdentifier>{7cce1680-810b-4351-87b9-f9ad25159cf0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
